@@ -1,0 +1,23 @@
+# Maxfiy Telegram ma'lumotlari va sessiya fayllari (HECH QACHON GIT GA QO'SHILMASIN)
+.env
+*.session
+*.session-journal
+
+# Python va virtual environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+ENV/
+
+# Yuklab olingan fayllar va vaqtinchalik ma'lumotlar
+downloads/
+*.log
+
+# Muhit va IDE sozlamalari
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

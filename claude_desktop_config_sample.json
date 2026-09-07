@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "telegram": {
+      "command": "C:\\Python314\\python.exe",
+      "args": [
+        "C:\\Users\\miuceo\\.gemini\\antigravity\\scratch\\telegram-mcp\\server.py"
+      ],
+      "env": {
+        "PYTHONIOENCODING": "utf-8"
+      }
+    }
+  }
+}

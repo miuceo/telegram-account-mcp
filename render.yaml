@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: telegram-mcp-server
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python server.py --transport sse
+    envVars:
+      - key: TELEGRAM_API_ID
+        sync: false
+      - key: TELEGRAM_API_HASH
+        sync: false
+      - key: TELEGRAM_STRING_SESSION
+        sync: false
