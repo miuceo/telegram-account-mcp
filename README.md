@@ -1,9 +1,15 @@
+<p align="center">
+  <img src="assets/banner.jpg" alt="Telegram Account MCP Connector" width="100%" />
+</p>
+
 # 🚀 Telegram Account MCP Connector for Claude
 
-[![MCP](https://img.shields.io/badge/MCP-Protocol-blue.svg)](https://modelcontextprotocol.io)
-[![Python](https://img.shields.io/badge/Python-3.10+-yellow.svg)](https://www.python.org/)
-[![Telethon](https://img.shields.io/badge/Telethon-MTProto-blue.svg)](https://github.com/LonamiWebs/Telethon)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+<p align="center">
+  <a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP-Protocol-blue.svg" alt="MCP" /></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10+-yellow.svg" alt="Python" /></a>
+  <a href="https://github.com/LonamiWebs/Telethon"><img src="https://img.shields.io/badge/Telethon-MTProto-blue.svg" alt="Telethon" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT" /></a>
+</p>
 
 An open-source **Model Context Protocol (MCP)** server that connects your personal **Telegram** account to **Claude Desktop**, **Claude Code**, or any MCP-compatible AI client.
 
