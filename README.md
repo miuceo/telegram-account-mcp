@@ -45,8 +45,8 @@ Give Claude superpowers to read your chats, check your Saved Messages, inspect f
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/<your-username>/telegram-mcp-connector.git
-cd telegram-mcp-connector
+git clone https://github.com/miuceo/telegram-account-mcp.git
+cd telegram-account-mcp
 pip install -r requirements.txt
 ```
 
